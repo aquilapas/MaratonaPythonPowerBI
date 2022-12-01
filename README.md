@@ -6,6 +6,7 @@ Este projeto tem como objeitivo apresentar um Painel no PowerBI com dados de pro
 
 # 🗃️ Base de dados e arquivos de apoio
 [Base de dados e arquivos] (https://joviano.com/)
+
 [Tutorial] (https://www.youtube.com/watch?v=9KzmO_0Q-KE&list=PLQpSyz5rZmJr3OLXzK9DDwLU14VOpAbXh&index=1&t=828s)
 
 # 🛠️ Ferramentas utiizadas
