@@ -8,7 +8,7 @@ Este projeto tem como objeitivo apresentar um Painel no PowerBI com dados de pro
 # Badges
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
 
 # 📍 Sumário
 
@@ -21,6 +21,7 @@ Este projeto tem como objeitivo apresentar um Painel no PowerBI com dados de pro
 [Python na versão 3.6.6] (https://www.python.org/downloads/release/python-366/)
 
 Bibliotecas utiizadas
+
 - python -m pip install pip==20.3.1
 - pip install jupyterlab==2.2.9
 - pip install numpy==1.18.3
@@ -30,7 +31,9 @@ Bibliotecas utiizadas
 - pip install openpyxl==3.0.5
 - pip install xlrd==1.2.0
 - pip install folium==0.12.1
+
 Específicas para webscraping nesse projeto
+
 - pip install beautifulsoup4==4.9.3
 - pip install html5lib==1.1
 - pip install requests==2.25.1
@@ -39,6 +42,7 @@ Específicas para webscraping nesse projeto
 
 ### SQL Server Developer Edition
 - Criação da base de dados local
+
 [Versão desenvolvedor] (https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 [SSMS - Microsoft Management Studio] (https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
