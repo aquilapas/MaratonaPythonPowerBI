@@ -44,6 +44,7 @@ Específicas para webscraping nesse projeto
 - Criação da base de dados local
 
 [Versão desenvolvedor] (https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+
 [SSMS - Microsoft Management Studio] (https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
 
