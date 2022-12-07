@@ -3,13 +3,13 @@ Repositório dedicado a documentação do projeto desenvolvido na Maratona Pytho
 
 # 🎯 Introdução
 
-O que o aplicativo faz?
-Por que foram utilizadas as tecnologias que estão no projeto?
-Quais foram os desafios enfrentados e os recursos que se espera implementar no futuro?
-
 Este projeto tem como objeitivo apresentar um Painel no PowerBI com dados de projetos de vereadores da Prefeitura de Indaial/SC. Os dados serão coletados para a criação de um banco de dados e o mesmo terá atualizações incrementais.
 
 # Badges
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
 # 📍 Sumário
 
 # 🛠️ Instalação
