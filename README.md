@@ -57,6 +57,28 @@ Específicas para webscraping nesse projeto
 
 # 💻 Execução do projeto
 
+## Estrutura da base de dados e Raspagem de Dados - SCRAPING
+
+Os dados serão extraidos do [site da Prefeitura de Idaial] (https://www.camaraindaial.sc.gov.br/pg/proposicoes).
+
+Há quatro grupos de informações:
+
+- Indicações
+- Moções
+- Requerimentos
+- Projetos
+
+Para caregar os dados utilizou-se de uma API disponível [aqui] ("http://api.willcode.tech/funcionarios/?USUARIO=USUARIO&SENHA=SENHA_SECRETA&ACAO=LISTAR-TODOS").
+
+## Criação do banco de dados SQL
+
+Etapas:
+
+- Criação das tabelas no banco de dados SQL;
+- Criação da consulta Python Incremental;
+- Carregar os dados para a tabela (Python alimentando o SQL);
+- Criação nossas primeiras views.
+
 
 # 🗃️ Créditos - Base de dados e arquivos de apoio
 [Base de dados e arquivos] (https://joviano.com/)
