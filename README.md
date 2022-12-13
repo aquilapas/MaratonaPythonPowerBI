@@ -77,7 +77,8 @@ Etapas:
 - Criação das tabelas no banco de dados SQL;
 - Criação da consulta Python Incremental;
 - Carregar os dados para a tabela (Python alimentando o SQL);
-- Criação nossas primeiras views.
+
+## Criação nossas primeiras views.
 
 
 # 🗃️ Créditos - Base de dados e arquivos de apoio
